@@ -50,6 +50,16 @@
 
 ---
 
+### 🍔 **Snack Effect! Contribute**
+
+<p align="center">
+  <a href="https://github.com/anisur-rahman-samim" target="_blank">
+    <img src="https://img.shields.io/badge/Contribute-FFC107?logo=github&logoColor=black&style=for-the-badge&labelColor=282828&color=green" alt="Contribute" />
+  </a>
+</p>
+
+---
+
 ### 📫 Reach Me At
 
 - **LinkedIn**: [Anisur Rahman Samim](https://www.linkedin.com/in/anisur-rahman-samim/)
