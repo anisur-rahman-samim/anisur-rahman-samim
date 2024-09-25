@@ -40,6 +40,10 @@
 
 ### 📈 GitHub Stats
 
+<br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anisur-rahman-samim&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="sarwar contribution graph"/>
+<br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anisur-rahman-samim&show_icons=true&theme=radical" alt="Anisur's GitHub Stats" />
 </p>
