@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 - 🌱 I’m currently working with **Flutter** and **Node.js**
-- 🚀 Experienced in **Dart**, **C**, **C++**, **JavaScript**, and **Python**
+- 🚀 Experienced in **Dart**,  **Node js**, **C**, **C++**, **JavaScript**, and **Python**
 - 🎯 Passionate about building mobile applications and exploring new technologies.
 - 💬 Ask me about anything related to **Flutter**, **Node.js**, and **App Development**
 
