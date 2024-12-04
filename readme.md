@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 - 🌱 I’m currently working with **Flutter** and **Node.js**
-- 🚀 Experienced in **Dart**,  **Node js**, **C**, **C++**, **JavaScript**, and **Python**
+- 🚀 Experienced in **Dart**,  **Node js**, **C**, **C++** and **JavaScript**.
 - 🎯 Passionate about building mobile applications and exploring new technologies.
 - 💬 Ask me about anything related to **Flutter**, **Node.js**, and **App Development**
 
@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
